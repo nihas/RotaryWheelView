@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rotary Wheel View</string>
+
+    <string-array name="multichooser_options">
+        <item>1/4</item>
+        <item>3/8</item>
+        <item>1/2</item>
+        <item>2/3</item>
+        <item>1</item>
+        <item>4/3</item>
+        <item>3/2</item>
+        <item>2</item>
+        <item>3</item>
+<!--        <item>@string/option4</item>-->
+<!--        <item>@string/option5</item>-->
+<!--        <item>@string/option6</item>-->
+    </string-array>
+</resources>
